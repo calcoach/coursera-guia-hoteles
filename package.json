@@ -2,11 +2,11 @@
   "name": "guia-hoteles",
   "version": "1.0.0",
   "description": "projecto full stack coursera",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "lite-server"
-     
+
   },
   "repository": {
     "type": "git",
