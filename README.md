@@ -1,3 +1,3 @@
 # Coursera guia hoteles
 
-Paractica de bootstrap 4
+Practica de bootstrap 4
