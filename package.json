@@ -1,0 +1,24 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "projecto full stack coursera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+     
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calcoach/coursera-guia-hoteles.git"
+  },
+  "author": "Alejandro Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calcoach/coursera-guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/calcoach/coursera-guia-hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
